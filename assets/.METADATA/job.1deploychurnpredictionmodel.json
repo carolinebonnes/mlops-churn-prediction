@@ -4,8 +4,8 @@
     "asset_type": "job",
     "origin_country": "us",
     "asset_category": "USER",
-    "created_at": "2022-04-27T20:33:35Z",
-    "created": 1651091615611,
+    "created_at": "2022-04-27T20:44:54Z",
+    "created": 1651092294905,
     "asset_id": "job.1deploychurnpredictionmodel",
     "asset_attributes": [
       "job"
